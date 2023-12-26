@@ -1,0 +1,6 @@
+#for frontend
+streamlit
+#to access gemini pro 
+google-generativeai
+#to load enviroment variables
+python-dotenv
